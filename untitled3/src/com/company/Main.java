@@ -31,7 +31,7 @@ public class Main {
                       System.out.println (number1*number2);
                       break;
                   case "/":
-                      System.out.println (number1+number2);
+                      System.out.println (number1/number2);
                       break;
               }
 
